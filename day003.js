@@ -4,7 +4,7 @@ Take an array and remove every second element from the array. Always keep the fi
 Example:
 ["Keep", "Remove", "Keep", "Remove", "Keep", ...] --> ["Keep", "Keep", "Keep", ...]
 
-None of the arrays will be empty, so you don't have to worry about that!
+None of the arrays will be empty so you don't have to worry about that!
 */
 
 function removeEveryOther(arr){
